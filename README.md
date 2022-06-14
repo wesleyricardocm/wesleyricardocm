@@ -1,0 +1,5 @@
+- # sobre mim
+- 👋 ola,meu nome é @wesleyricardocm
+- 👀 meu email de contato é @wesley.rebeiro@escola.pr.gov.br
+- 🌱 eu estou intereseda a aprender o programar novas linguas
+- 📫  eu estou aprendendo a programar linguagem de JavaScript e Scratc
